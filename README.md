@@ -1,2 +1,4 @@
 # BCBE546_FinalProject
-Final project for BCB546 
+Asheaifi, Maggie, Marissa, and Dua
+
+This top README.md file that describes the contents of your directory.
