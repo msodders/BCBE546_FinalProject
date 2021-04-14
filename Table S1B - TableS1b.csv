@@ -1,0 +1,28 @@
+,,,,,,,,,,,,,,
+,Table S1B. Met-Seq Enriched Promoters,,,,,,,,,,,,,
+,Gene ID **,Name,Category ***,Annotation ,Ave Unique hits (treatment),Ave. Unique hits (control),Ave. Raw Reads (treatment),Ave. Raw Reads (control),Ratio_ Insertions (Treatment/ control),Log2-fold Change (Insertions),Ratio_reads (Treatment/control),Log2-fold Change (reads),pvalue (proportions_reads),Adj. pvalue (proportions_reads)
+,PA4731,PanD,7,Aspartate 1- decarboxylase precursor,1,0,53,0,15.83,3.98,33.69,5.07,6.46E-09,1.12E-06
+,PA0051,PhzH,3,Phenazine biosynthesis,1,1,100,248,1.00,0.00,4.13,2.05,5.74E-06,1.10E-04
+,PA0155,PcaR,13,Aromatic compound degradation,1,1,208,72,1.00,0.00,4.13,2.05,5.74E-06,1.10E-04
+,PA0473,GST,10,Glutathione-S- transferase,1,1,207,424,1.00,0.00,4.13,2.05,5.74E-06,1.10E-04
+,PA0946,,16,Hypothetical,1,1,110,97,1.00,0.00,4.13,2.05,5.74E-06,1.10E-04
+,PA0990,,3,Nudix hydrolase,1,1,251,42,1.00,0.00,4.13,2.05,5.74E-06,1.10E-04
+,PA1750,AroG1,3,DHAP synthetase,1,1,68,135,1.00,0.00,4.13,2.05,5.74E-06,1.10E-04
+,PA1813,GloB,10,Hydroxyacylglutathio ne hydrolase,1,1,187,17,1.00,0.00,4.13,2.05,5.74E-06,1.10E-04
+,PA1814,KerV,3,Methyltransferase,1,1,187,17,1.00,0.00,4.13,2.05,5.74E-06,1.10E-04
+,PA1943,Riml,13,Acetyltransferase,1,1,89,30,1.00,0.00,4.13,2.05,5.74E-06,1.10E-04
+,PA2548,,12,Periplasmic binding OmpA-like,1,1,276,342,1.00,0.00,4.13,2.05,5.74E-06,1.10E-04
+,PA2897,MocR-like,13,Transcription factor/PLP- dependent aminotransferase,1,1,911,92,1.00,0.00,4.13,2.05,5.74E-06,1.10E-04
+,PA3340,FimV,2,Motility,1,1,543,46,1.00,0.00,4.13,2.05,5.74E-06,1.10E-04
+,PA4234,Ssb,5,"Replication, single stranded DNA binding",1,1,65,218,1.00,0.00,4.13,2.05,5.74E-06,1.10E-04
+,PA4574,YqhA,16,Uncharacterized membrane protein,1,1,584,99,1.00,0.00,4.13,2.05,5.74E-06,1.10E-04
+,PA4876,OsmE,12,Osmotically-inducible lipoprotein,1,1,2113,281,1.00,0.00,4.13,2.05,5.74E-06,1.10E-04
+,PA5461,,16,Hypothetical; DUF2388,1,1,191,49,1.00,0.00,4.13,2.05,5.74E-06,1.10E-04
+,PA5566,,16,Hypothetical,1,1,643,42,1.00,0.00,4.13,2.05,5.74E-06,1.10E-04
+,PA3921,MalT,13,Transcription factor,1,1,43,36,1.00,0.00,2.73,1.45,2.82E-03,2.89E-03
+,PA3577,,16,Hypothetical,1,1,40,22,1.00,0.00,2.54,1.35,6.21E-03,6.21E-03
+,PA2754,ElaB,7,Membrane-anchored ribosome-binding protein,1,2,255,154,3.96,1.98,2.07,1.05,3.73E-03,3.79E-03
+,PA2755,Eco,8,Ecotin precursor,1,2,121,65,3.96,1.98,2.07,1.05,3.73E-03,3.79E-03
+,PA4524.1,,7,tRNA,1,2,1072,3123,3.96,1.98,2.07,1.05,3.73E-03,3.79E-03
+,*,PAO1 locus number,,,,,,,,,,,,
+,**,Category: 1 = Quorum sensing; 2= Adherence/Motility; 3 = Energy/Metabolism; 4 = Fe/Heme; 5 = DNA; 6 = RNA; 7 = Protein; 8 = Virulence; 9 = Transportation; 10 = Cellular 11= Fatty acids; 12 = Cell wall/Envelope; 13 = Regulation/Signal transduction; 14 = Phage; 15 = Polyamines; 16 = Unknown,,,,,,,,,,,,
