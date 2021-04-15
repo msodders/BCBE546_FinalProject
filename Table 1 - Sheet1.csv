@@ -1,0 +1,75 @@
+,,,,,
+,"TABLE 1 Known heme uptake, regulatory, and synthesis proteins in P. aeruginosa",,,,
+,Gene,Locus no. ,Enzyme or Function,No. of Tn inserts in original library ,Reference(s)
+,Uptake,,,,
+,hxuA,PA1302,Heme outer membrane receptor,,148
+,hxuR,PA1301,Anti-sigma factor,,"70,148"
+,hxuI,PA1300,ECF sigma factor,,"70,148"
+,hasD,PA3406,Transport protein,,149
+,hasA,PA3407,Extracellular heme binding (hemophore),,149
+,hasR,PA3408,Heme outer membrane receptor (sensing),1,149
+,hasE,PA3405,Membrane fusion protein,,149
+,hasF,PA3404,Outer membrane protein,,149
+,hasS,PA3409,Anti-sigma factor,,149
+,hasI,PA4310,ECF sigma factor,,149
+,phuR,PA4710,Major heme outer membrane receptor,5,149
+,phuU,PA4707,Inner membrane heme transporter,1,149
+,phuV,PA4706,Inner membrane heme transporter,1,149
+,phuW,PA4705,Possible PhuR auxiliary protein,,149
+,phuS,PA4709,Heme trafficking,1,149
+,phuT,PA4708,Heme trafficking,,149
+,Catabolism ,,,,
+,hemO,PA0672,Major heme oxygenase,1,10
+,bphO,PA4116,Phytochrome heme oxygenase,1,150
+,Regulation ,,,,
+,dnr,PA0527,NO responsive transcription factor,1,56
+,anr,PA1544,O2 responsive transcription factor,,56
+,prrF1/2,NA,Iron responsive sRNA,,35
+,Synthesis (of HemB),,,,
+,gltX,PA3134,Glutamyl-tRNA synthetase,,151
+,hemA,,ALA synthase,NA,1
+,hemA,PA4666,Glu-tRNA reductase,,152
+,hemL1,PA3977,"Glutamate-1-semialdehyde 2,1-aminomutase",,1
+,hemL2,PA4088,"Glutamate-1-semialdehyde 2,1-aminomutase",,1
+,hemL3,PA5523,"Glutamate-1-semialdehyde 2,1-aminomutase","2,1",1
+,hemB,PA5243,PBG synthase,,1
+,hemC,PA5260,HMB synthase,,1
+,hemD,PA5259,URO synthase,,1
+,hemE,PA5034,URO decarboxylase,,1
+,hemF,PA0024,Coproporphyrinogen decarboxylase,1,1
+,hemN/Z,PA1546,O2-independent coproporphyrinogen III oxidase,2,1
+,hemG,,Protoporphyrinogen dehydrogenase,NA,1
+,hemJ,PA0661,Protoporphyrinogen dehydrogenase,1,1
+,hemK,PA4664,Methyltransferase,1,1
+,hemY,PA5257,Protoporphyrinogen oxygenase,,153
+,hemH,PA4655,Protoporphyrin ferrochelatase,,1
+,hemX,PA5258,Membrane heme biosynthesis regulatory protein,,153
+,HemD1 synthesis ,,,,
+,nirF,PA0516,HemD1 biosynthesis,2,154
+,nirL,PA0514,HemD1 biosynthesis,,154
+,nirJ,PA0511,HemD1 biosynthesis,1,154
+,nirE,PA0510,Uroporphyrin III c-methyltransferase,1,154
+,Siroheme,,,,
+,cysG,PA2611,Siroheme synthase,,155
+,cobA,PA1778,"Uroporphyrin III methyltransferase
+",1,155
+,Colbamin (B12),,,,
+,cobI,PA2904,Cobalt-factor-2 C20-methyltransferase,,156
+,cobG,PA2906,Precorrin-3B synthase,1,156
+,cobJ,PA2903,Precorrin-3B C17-methyltransferase,,156
+,cobM,PA2948,Cobalt-precorrin-4 C11-methyltransferase,,156
+,cobF,,Precorrin-6A synthase,NA,156
+,cobK,PA2909,Cobalt-precorrin-6A reductase,1,156
+,cobH,PA2905,Cobalt-precorrin-8 methylmutase,,156
+,cobB,PA1273,c-Diamide synthase,,156
+,cobN1,PA2944,Cobaltochelatase,3,156
+,cobN2,PA1923,Cobaltochelatase,,156
+,cobO,PA1272,Cob(I)alamin adenosyltransferase,1,156
+,cobQ,PA1277,Adenosylcobyric acid synthase,,156
+,cobC,PA1276,Threonine-phosphate decarboxylase,,156
+,cobD,PA1275,Adenosylcobinamide-phosphate synthase,,156
+,cobP,PA1278,Adenosylcobinamide kinase,,156
+,cobV,PA1281,Adenosylcobinamide-GDP ribazoletransferase,,156
+,Hypothetical ,PA1280,Alpha-ribazole phosphatase,,156
+,cobU,PA1279,Nicotinate-nucleotide-dimethylbenzimidazole phosphoribosyltransferase,1,156
+,cobL,PA2907,"Precorrin-6Y C5,15-methyltransferase",,156
