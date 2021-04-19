@@ -1,0 +1,225 @@
+Gene_ID,Name,Category,Annotation ,AveUniqueHits_Trt,AveUniqueHits_Control,AveRawReads_Trt,AveRawReads_Ctrl,Ratio_Insertions (Treatment/control),Log2-fold Change (Insertions),Ratio_reads (Treatment/control),Log2-fold Change (reads),pvalue (proportions_reads),Adj. pvalue (proportions_reads)
+PA0709,,3,ABM domain protein,1,0,136,0,9.72,3.28,41.32,5.37,1.29E-10,2.14E-09
+PA0747,,3,Probable aldehyde dehydrogenase,1,0,134,0,9.72,3.28,41.32,5.37,1.29E-10,2.14E-09
+PA0959,,10,HIT domain protein,1,0,192,0,9.72,3.28,41.32,5.37,1.29E-10,2.14E-09
+PA3751,PurT,3,Phosphoribosylglycinamide formyltransferase 2 (purine biosynthesis),1,0,162,0,9.72,3.28,41.32,5.37,1.29E-10,2.14E-09
+PA3798,,3,PLP-dependent aminotransferase or kynurenine aminotransferase (putative),1,0,119,0,9.72,3.28,41.32,5.37,1.29E-10,2.14E-09
+PA5457,WbdD,3,Common polysaccaride antigen (CPA) biosynthesis (O-antigen synthesis methyltransferase),1,0,621,0,9.72,3.28,41.32,5.37,1.29E-10,2.14E-09
+PA1963,,16,Hydrophobic peptide required for survival in oxygen,1,0,23,0,9.72,3.28,14.62,3.87,1.31E-04,1.46E-04
+PA1108,,9,Tet resistance protein (transporter),1,0,22,0,9.72,3.28,13.98,3.81,1.84E-04,2.04E-04
+PA0527,Dnr,13,Transcriptional regulator Dnr Phosphatidylethanolamine (PE),1,0,10,0,9.72,3.28,6.36,2.67,1.17E-02,1.24E-02
+PA0028,,16,lipid taxis system (3' to HemF operon),1,1,147,91,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA0099,,8,Vrgb1-dependent nuclease toxin secreted by T6SS,1,1,272,95,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA0149,,13,"Sigma-70 factor, ECF subfamily; Regulates iron/metal uptake",1,1,131,165,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA0182,FabG-like,11,"FabG homolog, function unknown",1,1,141,28,1,1,4.13,2.05,5.74E-06,2.86E-05
+PA0249,,7,Predicted GNAT acetyltransferase,1,1,551,328,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA0277,,9,HtpX Zn-dependent protease chaperone,1,1,155,95,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA0278,TauE/SafE,9,Sulfite exporter TauE/SafE,1,1,378,363,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA0281,CysW,9,Sulfate transporter CysW ,1,1,106,179,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA0319,,16,Part of the car calcium responsive operon,1,1,192,74,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA0491,,13,Predicted LysR type transcriptional regulator of unknown function,1,1,1581,6208,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA0765,MucC,13,Positive regulator for alginate biosynthesis,1,1,1338,170,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA0887,AcsA,3,Acetyl-CoA synthetase Bacterial defensin resistance,1,1,126,132,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA0920,MprF,16,Bacterial defensin resistance protein (virulence factor); In operon with VirJ,1,1,113,10,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA1001,PhnA,1,Anthranilate synthase component I,2,2,351,164,4.86,2.28,4.13,2.05,1.41E-10,2.16E-09
+PA1141,,13,"LysR-type transcriptional regulator, similar fold to OxyR",1,1,187,188,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA1169,,8,Arachidonate 15-lipoxygenase,1,1,175,83,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA1179,PhoP,13,Two-componentresponse regulator PhoP,1,1,91,33,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA1192,TilS/MesJ,3,Probable lysidine synthase TilS/MesJ,1,1,679,359,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA1218,PhyH,3,Phytanoyl-CoA dioxygenase; binding of 2-oxoglutarate to the iron(II) containing enzyme,1,1,99,29,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA1247,AprE,9,Alkaline protease secretion protein AprE,1,1,137,44,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA1455,FliA,2,Flagellar biosynthesis sigma factor ,1,1,1347,407,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA1510,PGAP1-like,8,T6SS phospholipase effector targets bacterial cells and induced ER/autophagy,1,1,172,40,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA1538,CzcO,16,Associated with the cation diffusion facilitator CzcD,1,1,173,30,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA1708,PopB,8,"Translocator protein PopB, Type III Secretion System protein",1,1,1453,154,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA1758,PabB,3,Para-aminobenzoate synthase (chorismate metabolism),1,1,108,65,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA1941,,16,Predicted cytochrome,3,3,1244,194,4.86,2.28,4.13,2.05,4.00E-15,1.65E-05
+PA1991,ErcA,3,Iron-containing alcohol dehydrogenase,1,1,275,48,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA2349,,9,D-methionine transport system operon,1,1,77,59,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA2464,FoxB,16,FoxB siderophore operon,1,1,412,529,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA2708,,16,Unknown but contains a DUF748,1,1,346,407,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA2813,GST,10,Glutathione S-transferase,1,1,1011,737,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA2843,DAHP synth,3,Chorismate synthesis (catalyzes first step),1,1,195,110,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA2896,SbrR/SbrI,2,Sigma and anti-sigma factor that regulate biofilms and motility,1,1,297,64,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA2902,,16,WG reapeat containing protein,1,1,248,134,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA2925,HisM,9,Histidine transporter permease HisM,1,1,231,48,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA3061,PeID,13,"Cyclic-di-GMP binding, regulation of polysaccharide",2,2,918,434,4.86,2.28,4.13,2.05,1.41E-10,2.16E-09
+PA3218,,16,protein of unknown function,1,1,400,185,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA3349,CheW,2,Chemotaxis protein,1,1,691,62,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA3390,,3,ABM domain protein,1,1,6406,1804,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA3517,PurB,3,"Adenylosuccinate lyase, purine metabolism",1,1,555,11,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA3641,,9,Predicted glycine transporter,1,1,545,1402,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA3765,,16,DUF2239 domain - protein function is unknown,1,1,93,108,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA4137,OprD,9,Porin,1,1,430,994,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA4187,,9,Predicted sugar major facilitator superfamily (MFS) transporter,1,1,183,91,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA4348,,10,Predicted beta lactamase AmpC (PA4347) and FprA homolog (PA4348),1,1,145,243,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA4352,,13,Anaerobic energy stress protein/Anr regulated,1,1,499,32,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA4516,,16,Hypothetical protein with Sel1- like repeat sequences,1,1,740,52,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA4613,KatB,10,Catalase regulated by OxyR,1,1,229,173,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA4724,GluQ,7,Glutamyl-QtRNA(Asp) synthetase,1,1,67,13,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA4769,Fur,13,Ferric uptake regulator,1,1,325,601,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA4802,,3,Predicted amidohydrolase,1,1,169,103,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA4804,PotE,15,Putrescine export,1,1,169,76,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA4904,VanA,3,"Vanillate O-demethylase
+oxygenase",1,1,125,73,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA4905,VanB,3,Vanillate O-demethylase,1,1,209,130,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA4908,,3,Ornithine cyclodeaminase,1,1,357,138,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA4919,PncB1,3,NAD salvage pathway ,1,1,294,259,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA5093,HutH,3,"Histidine/phenylalanine
+ammonia- lyase",1,1,416,120,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA5113,,16,Hypothetical protein (DUF3999),1,1,541,413,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA5307,,9,Dicarboxylate transport,1,1,170,217,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA5348,,13,"HU-IHF histone-like DNA
+binding protein",1,1,2020,3828,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA5378,CbcX,16,Glycine/betaine transport,1,1,471,209,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA5382,,13,"Predicted transcriptional
+regulator",1,1,815,160,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA5401,,9,ABC-type proline/glycine betaine transport system (periplasmic component),1,1,154,163,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA5434,Mtr,9,Tryptophan permease,1,1,154,317,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA5477,,16,"Unknown function, contains
+DUF2070 and DUF2914 domains",1,1,1528,241,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA5517,,16,Hypothetical protein,1,1,305,25,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA5542,,16,Zn2+-dependent imipenemase,1,1,115,45,1,0,4.13,2.05,5.74E-06,2.86E-05
+PA0463,CreB,13,"Two-componentresponse
+regulator CreB",1,1,62,227,1,0,3.94,1.98,1.38E-05,5.46E-05
+PA0328,,16,Putative peptidase,1,1,58,124,1,0,3.69,1.88,4.37E-05,1.72E-04
+PA0652,Vfr,13,"Vfr (virulence factor regulator of Type III secretion); c-AMP
+regulated",1,1,58,71,1,0,3.69,1.88,4.37E-05,1.72E-04
+PA0511,NirJ,4,Heme d1 biosynthesis protein,1,1,56,352,1,0,3.56,1.83,7.75E-05,8.60E-05
+PA3732,,16,Hypothetical protein (DUF2170),1,1,56,105,1,0,3.56,1.83,7.75E-05,8.60E-05
+PA5219,AraJ,9,"AraJ (arabinose efflux
+transporter)",1,1,52,22,1,0,3.31,1.83,2.40E-04,2.65E-04
+PA2661,,8,"Hypothetical protein in operon with Patatin-like phospholipase
+(PA2660)",1,1,49,114,1,0,3.11,1.64,5.54E-04,6.11E-04
+PA2960,PilZ,2,Type 4 fimbrial biogenesis protein,6,8,2573,2197,3.65,1.87,3.1,1.63,0.00E+00,0.00E+00
+PA1140,,3,"Glyoxylate-induced protein; PDB
+code: 1sq4",1,1,48,139,1,0,3.05,1.61,7.30E-04,8.04E-04
+PA2755,,8,"Ecotin; serine protease inhibitor, protects from neutrophil elastase",1,1,48,17,1,0,3.05,1.61,7.30E-04,8.04E-04
+PA4362,,9,Sugar transport operon,1,1,47,44,1,0,2.99,1.58,9.60E-04,1.05E-03
+PA5441,,16,Hypothetical protein,1,1,44,28,1,0,2.8,1.48,2.16E-03,2.37E-03
+PA2762,,16,"Cupin family protein, possible
+ring-cleaving dioxygenase",2,2,658,310,3.24,1.7,2.75,1.46,1.79E-07,9.04E-07
+PA5042,PilO,2,"Type 4 fimbrial biogenesis
+protein",8,12,58691,10412,3.24,1.7,2.75,1.46,0.00E+00,0.00E+00
+PA1818,IdcA,3,"Lysine-specific pyridoxal 5'- phosphate (PLP)-dependent
+carboxylase",1,1,43,18,1,0,2.73,1.45,2.82E-03,3.10E-03
+PA3234,ActP,9,Acetate permease (predicted),1,1,43,23,1,0,2.73,1.45,2.82E-03,3.10E-03
+PA4619,,3,"Predicted iron/heme-binding
+cytochrome",2,3,224,79,3.24,1.7,2.73,1.45,2.31E-07,1.16E-06
+PA5040,PilQ,2,"Type 4 fimbrial biogenesis outer
+membrane protein",47,71,54612,62315,3.22,1.69,2.58,1.37,0.00E+00,0.00E+00
+PA0535,DnaE,5,"DnaE (DNA polymerase III alpha
+subunit)",2,2,232,469,4.86,2.28,2.45,1.29,2.27E-04,2.51E-04
+PA5041,PilP,2,"Type 4 fimbrial biogenesis
+protein",8,13,5957,6871,2.99,1.58,2.43,1.28,0.00E+00,0.00E+00
+PA0495,AtzF,3,Allophanate hydrolase subunit 1,1,1,38,38,1,0,2.42,1.27,1.04E-02,1.11E-02
+PA3716,,16,Protein of unknown function (contains a WG repeat),1,1,36,13,1,0,2.29,1.19,1.72E-02,1.82E-02
+PA5043,PilN,2,Type 4 fimbrial biogenesis protein,6,10,2363,4345,2.92,1.54,2.19,1.13,1.30E-12,4.60E-11
+PA3620,MutS,10,DNA mismatch repair protein MutS,2,1,34,17,9.72,3.28,2.16,1.11,2.81E-02,2.97E-02
+PA5044,PilM,2,Type 4 fimbrial biogenesis protein,17,31,14686,15265,2.67,1.41,2.11,1.07,0.00E+00,0.00E+00
+PA0968,FadM,4,acetyl-CoA thioesterase (Tol receptor operon regulated by iron),1,1,33,142,1,0,2.1,1.07,3.58E-02,3.78E-02
+PA3840,,7,rRNA (adenine-N6-)- methyltransferase activity,1,1,33,176,1,0,2.1,1.07,3.58E-02,3.78E-02
+PA0027,,3,Phosphatidylethanolamine (PE) lipid taxis system (3' to HemF operon),1,2,303,77,2.43,1.28,2.07,1.05,3.73E-03,4.07E-03
+PA0106,CoxA,3,Cytochrome C oxidase subunit I,1,2,325,49,2.43,1.28,2.07,1.05,3.73E-03,4.07E-03
+PA0260,Tle3,8,T6SS putative lipase; α-β hydrolase domain,1,2,172,1025,2.43,1.28,2.07,1.05,3.73E-03,4.07E-03
+PA0268,,13,Aspartate amidotransferease superfamily regulator,1,2,130,73,2.43,1.28,2.07,1.05,3.73E-03,4.07E-03
+PA0464,CreC,13,Two-component histidine kinase CreC,1,2,182,191,2.43,1.28,2.07,1.05,3.73E-03,4.07E-03
+PA0509,NirN,3,Heme d1 biosynthesis protein,1,2,151,30,2.43,1.28,2.07,1.05,3.73E-03,4.07E-03
+PA0625,HylD,9,Type I secretion system protein,1,2,490,276,2.43,1.28,2.07,1.05,3.73E-03,4.07E-03
+PA0792,PrpD,3,Aconitase activity,1,2,54,137,2.43,1.28,2.07,1.05,3.73E-03,4.07E-03
+PA0820,,3,HNH nuclease or endonuclease,1,2,933,234,2.43,1.28,2.07,1.05,3.73E-03,4.07E-03
+PA0845,CerN,8,Hydrolyzes ceramide to generate sphingosine and fatty acid; possible exotoxin,1,2,7349,15601,2.43,1.28,2.07,1.05,3.73E-03,4.07E-03
+PA1069,,16,Hypothetical protein,1,2,274,106,2.43,1.28,2.07,1.05,3.73E-03,4.07E-03
+PA2670,,16,Hypothetical protein,1,2,129,43,2.43,1.28,2.07,1.05,3.73E-03,4.07E-03
+PA2761,,16,Predicted glycine/betaine transporter,1,2,218,69,2.43,1.28,2.07,1.05,3.73E-03,4.07E-03
+PA3053,MhpC,3,Flavoenzyme catalyzing an aromatic hydroxylation and a ring-cleavage reaction,1,2,249,313,2.43,1.28,2.07,1.05,3.73E-03,4.07E-03
+PA3305,,16,Hypothetical protein,1,2,109,144,2.43,1.28,2.07,1.05,3.73E-03,4.07E-03
+PA3340,FimV-like,2,Twitching motility,1,2,98,168,2.43,1.28,2.07,1.05,3.73E-03,4.07E-03
+PA3710,BetA,8,Choline dehydrogenase; betaine biosynthesis from choline,1,2,1982,3686,2.43,1.28,2.07,1.05,3.73E-03,4.07E-03
+PA3898,,13,AraC-type transcriptional regulator,1,2,133,335,2.43,1.28,2.07,1.05,3.73E-03,4.07E-03
+PA4026,,3,Gcn5-related N- acetyltransferase (GNAT),1,2,4897,580,2.43,1.28,2.07,1.05,3.73E-03,4.07E-03
+PA4113,AraJ,9,Putative arabinose efflux transporter,1,2,574,684,2.43,1.28,2.07,1.05,3.73E-03,4.07E-03
+PA4625,CrdA,13,"c-di-GMP binding, coordinates extracellular matrix, positively regulates biofilms",8,16,7149,2826,2.43,1.28,2.07,1.05,0.00E+00,0.00E+00
+PA4689,MlaD,8,Lipid transporter component,3,6,560,961,2.43,1.28,2.07,1.05,5.07E-07,2.53E-06
+PA4733,AcsB,3,Acetyl-CoA synthetase ,1,2,120,105,2.43,1.28,2.07,1.05,3.73E-03,4.07E-03
+PA4913,,9,Probable outer membrane amino acid transporter binding protein,1,2,76,1052,2.43,1.28,2.07,1.05,3.73E-03,4.07E-03
+PA4925,MscS,9,Small-conductance mechanosensitive channel protein,1,2,712,61,2.43,1.28,2.07,1.05,3.73E-03,4.07E-03
+PA3641,AruH,3,L-Arginine catobolism; pyruvate transaminase,1,2,3187,3288,2.43,1.28,2.07,1.05,3.73E-03,4.07E-03
+PA5058,PhaC,3,Poly(3-hydroxyalkanoic acid) synthase 2,1,2,312,231,2.43,1.28,2.07,1.05,3.73E-03,4.07E-03
+PA5217,PotD,15,PotD; Fe3+ and polyamine ABC transporter periplasmic binding protein,1,2,68,121,2.43,1.28,2.07,1.05,3.73E-03,4.07E-03
+PA5412,,16,Hypothetical protein,1,2,820,107,2.43,1.28,2.07,1.05,3.73E-03,4.07E-03
+PA4587,CcpR,3,Cytochrome c551 peroxidase precursor,1,1,32,583,1,0,2.03,1.02,4.54E-02,4.77E-02
+PA4607,,16,DUF3015 containing protein of unknown function,1,1,32,248,1,0,2.03,1.02,4.54E-02,4.77E-02
+PA4551,PilV,2,Type 4 fimbrial biogenesis protein,7,12,2631,4472,2.84,1.5,2,1,1.37E-11,2.29E-10
+PA5523,HemL-like,4,"HemL/ArgD, pyridoxal phosphate binding",1,2,63,146,2.43,1.28,2,1,5.78E-03,6.17E-03
+PA4675,ChtA,4,Xenosiderophore transporter (TonB-dependent),2,3,251,210,3.24,1.7,1.99,0.99,8.04E-04,8.84E-04
+PA2151,,3,Zinc-dependentalchohol dehydrogenase,1,1,31,50,1,0,1.97,0.98,5.73E-02,6.01E-02
+PA0101,,16,HEAT domain repeats,1,1,30,23,1,0,1.91,0.93,7.21E-02,7.56E-02
+PA4499,PsdR,13,"Regulates dipeptide, aminolevulinic acid and heme transport",1,1,30,723,1,0,1.91,0.93,7.21E-02,7.56E-02
+PA5233,FliL,2,Flagellar basal body protein FliL,1,1,29,171,1,0,1.84,0.88,9.03E-02,9.44E-02
+PA4099,OprB,9,Carbohydrate-selective porin (glucose activated),1,1,28,261,1,0,1.78,0.83,1.13E-01,1.18E-01
+PA2252,,9,"Predicted AGCS
+PA2252 PA2563 sodium/alanine/glycine symporter",1,2,54,62,2.43,1.28,1.72,0.78,3.67E-02,3.88E-02
+PA2563,,9,Predicted sulfate transporter,1,1,27,30,1,0,1.72,0.78,1.40E-01,1.46E-01
+PA5155,,9,Predicted amino acid (lysine/arginine/ornithine/histidine/octopine) transporter,1,1,26,453,1,0,1.65,0.72,1.72E-01,1.78E-01
+PA5181,,10,"Predicted molybdenum ion / Fe-
+sulfur cluster binding protein",1,1,26,272,1,0,1.65,0.72,1.72E-01,1.78E-01
+PA4526,PilB,2,"Type 4 fimbrial biogenesis
+protein",22,52,23425,46461,2.06,1.04,1.62,0.7,0.00E+00,0.00E+00
+PA0525,NorD,3,Denitrification protein,1,2,50,47,2.43,1.28,1.59,0.67,7.73E-02,8.09E-02
+PA1859,,13,LysR-type transcriptional regulator,1,1,25,190,1,0,1.59,0.67,2.12E-01,2.19E-01
+PA2474,,3,"Putative MetA-pathway of phenol degradation (in operon
+with GST)",1,1,23,42,1,0,1.46,0.55,3.13E-01,3.22E-01
+PA4227,PchR,4,"Binds and regulates pyochelin siderophore synthesis and
+uptake",1,1,23,42,1,0,1.46,0.55,3.13E-01,3.22E-01
+PA4554,PilY1,2,Type 4 fimbrial biogenesis protein,52,132,80211,40384,1.91,0.94,1.46,0.54,0.00E+00,0.00E+00
+PA1410,PotD,15,"Spermidine/putrescine-binding
+periplasmic protein",1,1,22,59,1,0,1.4,0.48,3.77E-01,3.86E-01
+PA3877,Nark1,3,Nitrite metabolism operon,1,1,22,124,1,0,1.4,0.48,3.77E-01,3.86E-01
+PA0067,PrlC,3,Oligopeptidase,1,3,530,286,1.62,0.7,1.38,0.46,1.45E-01,1.51E-01
+PA0158,TriC,9,Detergent/antibiotic efflux pump,1,3,134,130,1.62,0.7,1.38,0.46,1.45E-01,1.51E-01
+PA0266,GabT,15,Arginine degradation,1,3,300,167,1.62,0.7,1.38,0.46,1.45E-01,1.51E-01
+PA1027,AmaB,3,Aldehyde dehydrogenase,1,3,151,164,1.62,0.7,1.38,0.46,1.45E-01,1.51E-01
+PA1383,,16,Hypothetical protein,1,3,561,90,1.62,0.7,1.38,0.46,1.45E-01,1.51E-01
+PA4514,PiuA,4,"Outer membrane receptor for
+iron transport",1,3,71,132,1.62,0.7,1.38,0.46,1.45E-01,1.51E-01
+PA4985,PotD,15,"Fe3+ and/or
+spermidine/putrescine ABC
+transporter periplasmic binding protein",1,3,456,197,1.62,0.7,1.38,0.46,1.45E-01,1.51E-01
+PA5022,MscK,9,Small-conductance mechanosensitive channel protein,1,3,313,563,1.62,0.7,1.38,0.46,1.45E-01,1.51E-01
+PA5367,PstA,9,Membrane protein component of ABC phosphate transporter,1,3,89,548,1.62,0.7,1.38,0.46,1.45E-01,1.51E-01
+PA3805,PilF,2,Type 4 fimbrial biogenesis protein,11,32,6850,12411,1.67,0.74,1.32,0.4,4.45E-05,1.73E-04
+PA4163,,7,"Predicted Asp-tRNAAsn/Glu- tRNAGln amidotransferase A
+subunit",1,1,20,69,1,0,1.27,0.35,5.34E-01,5.45E-01
+PA4986,,3,FAD-dependent oxidoreductase,1,1,20,15,1,0,1.27,0.35,5.34E-01,5.45E-01
+PA5327,SphC,3,"Sphingosine degradation / FAD -
+binding oxidoreductase",1,1,20,19,1,0,1.27,0.35,5.34E-01,5.45E-01
+PA5372,BetA,3,"Choline dehydrogenase; betaine biosynthesis from
+choline",1,3,58,145,1.62,0.7,1.23,0.3,3.58E-01,3.68E-01
+PA5516,PdxY,3,"Pyridoxamine kinase, salvage pathway of pyridoxal 5'-
+phosphate (PLP)",1,1,19,148,1,0,1.21,0.27,6.28E-01,6.39E-01
+PA4553,PilX,2,"Type 4 fimbrial biogenesis
+protein",6,20,1555,4113,1.46,0.54,1.2,0.26,4.15E-02,4.37E-02
+PA0426,MexB,9,"Resistance-Nodulation-cell
+Division (RND) multidrug efflux
+transporter",2,4,249,261,2.43,1.28,1.19,0.25,3.69E-01,3.79E-01
+PA0142,,3,8-oxoguanine deaminase,1,2,36,59,2.43,1.28,1.14,0.19,6.29E-01,6.39E-01
+PA1838,Cysl,3,Sulfite reductase,1,1,18,106,1,0,1.14,0.19,7.33E-01,7.42E-01
+PA1858,StrB,3,Streptomycin 3''- kinase,1,1,18,84,1,0,1.14,0.19,7.33E-01,7.42E-01
+PA2591,VqsR,1,"Quorum sensing regulator (N-
+acyl homoserine lactones )",1,1,18,163,1,0,1.14,0.19,7.33E-01,7.42E-01
+PA2837,OmpA,9,Outer membrane efflux protein,1,1,18,26,1,0,1.14,0.19,7.33E-01,7.42E-01
+PA3079,,9,Predicted efflux protein,1,1,18,20,1,0,1.14,0.19,7.33E-01,7.42E-01
+PA4060,,3,"S-adenosylmethionine-
+dependent methyltransferase",1,1,18,220,1,0,1.14,0.19,7.33E-01,7.42E-01
+PA4528,PilD,2,Type 4 prepilin peptidase,4,12,377,2589,1.62,0.7,1.14,0.19,2.53E-01,2.61E-01
+PA2492,MexT,13,Transcriptional regulator,4,6,341515,40398,3.24,1.7,1.12,0.17,4.73E-01,4.82E-01
+PA4556,PilE,2,"Type 4 fimbrial biogenesis
+protein",5,19,929,5911,128,0.36,1.09,0.12,3.59E-01,3.69E-01
+PA5449,WbpX,3,Glycosyltransferase,1,2,33,102,2.43,1.28,1.05,0.07,8.66E-01,8.73E-01
+PA0301,SpuE,15,Spermidine/putrescine-binding periplasmic protein,1,4,99,302,1.22,0.28,1.03,0.05,8.72E-01,8.77E-01
+PA4221,FptA,4,Fe(III)-pyochelin outer membrane receptor,2,5,105,639,1.94,0.96,1.03,0.04,8.70E-01,8.76E-01
+PA3241,RssA,11,Predicted phospholipase (patatin domain),1,1,16,143,1,0,1.02,0.02,9.67E-01,9.68E-01
+PA3601,,7,50S ribosomal protein L31,1,1,16,,1,0,1.02,0.02,9.67E-01,9.68E-01
+PA5047,,16,Putative Zn-dependent protease,1,1,16,,1,0,1.02,0.02,9.67E-01,9.68E-01
+PA4527,PilC,2,Pilin protein,10,35,5190,,1.39,0.47,1.01,0.01,9.07E-01,9.10E-01
