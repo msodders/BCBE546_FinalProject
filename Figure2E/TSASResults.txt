@@ -1,0 +1,9 @@
+SRR	Enrichment	TotalMappedReads	Number	
+541	0	478438	No. Of Unique Insertions	2629
+540	1	426472	No. Of Unique Insertions	1650
+539	2	728419	No. Of Unique Insertions	761
+538	3	753226	No. Of Unique Insertions	586
+541	0	478438	No. Of Unique Insertions Within Genes	2117
+540	1	426472	No. Of Unique Insertions Within Genes	1355
+539	2	728419	No. Of Unique Insertions Within Genes	663
+538	3	753226	No. Of Unique Insertions Within Genes	514
