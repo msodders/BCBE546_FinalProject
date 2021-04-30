@@ -1,0 +1,12 @@
+samplename,totaluniquehits,totaluniquehitswithingenes,totalnumberofreadswithingenes,,,
+538_mapped.bowtie2,511,442,728822,,,
+539_mapped.bowtie2,624,535,672960,,,
+540_mapped.bowtie2,1596,1306,386846,,,
+541_mapped.bowtie2,2544,2038,421730,,,
+,,,,,,
+,,,,,,
+samplename,totaluniquehits,totaluniquehitswithingenes,totalnumberofreadswithingenes,,,
+538_mapped.bowtie2,586,514,753226,,,
+539_mapped.bowtie2,761,663,728419,,,=DV's Results (40length trimmed prior to running bowtie)
+540_mapped.bowtie2,1650,1355,426472,,,
+541_mapped.bowtie2,2629,2117,478438,,,
