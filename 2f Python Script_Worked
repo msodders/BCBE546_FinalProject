@@ -1,0 +1,95 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "id": "a96d903e",
+   "metadata": {
+    "scrolled": true
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "sampling 50 out of 852581 records\n"
+     ]
+    }
+   ],
+   "source": [
+    "from __future__ import division\n",
+    "import random\n",
+    "\n",
+    "number_to_sample = 50\n",
+    "number_of_replicates = 10\n",
+    "\n",
+    "with open(\"SRR13258540.fastq\") as input:\n",
+    "    num_lines = sum([1 for line in input])\n",
+    "total_records = int(num_lines / 4)\n",
+    "print(\"sampling \" + str(number_to_sample) + \" out of \" + str(total_records) + \" records\")\n",
+    "\n",
+    "output_files = []\n",
+    "output_sequence_sets = []\n",
+    "for i in range(number_of_replicates):\n",
+    "    output_files.append(open(\"SRR13258540_output.fastq.\" + str(i), \"w\"))\n",
+    "    output_sequence_sets.append(set(random.sample(range(total_records + 1), number_to_sample)))\n",
+    "\n",
+    "record_number = 0\n",
+    "with open(\"SRR13258540.fastq\") as input:\n",
+    "        for line1 in input:\n",
+    "            line2 = input.readline()\n",
+    "            line3 = input.readline()\n",
+    "            line4 = input.readline()\n",
+    "            for i, output in enumerate(output_files):\n",
+    "                if record_number in output_sequence_sets[i]:\n",
+    "                        output.write(line1)\n",
+    "                        output.write(line2)\n",
+    "                        output.write(line3)\n",
+    "                        output.write(line4)\n",
+    "                record_number += 1\n",
+    "\n",
+    "for output in output_files:\n",
+    "    output.close()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 9,
+   "id": "ff1fbb74",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "my_file = open(\"SRR13258540_output.fastq.2\") "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "9b0891ff",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.8.8"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}

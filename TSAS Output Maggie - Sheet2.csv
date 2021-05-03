@@ -1,0 +1,11 @@
+samplename,totaluniquehits,totaluniquehitswithingenes,totalnumberofreadswithingenes,total number of mapped reads
+25_540_mapped_bowtie2,37,33,1498,2505
+50_540_mapped_bowtie2,61,55,3343,5112
+75_540_mapped_bowtie2,95,85,5538,7810
+100_540_mapped_bowtie2,128,113,7493,10291
+200_540_mapped_bowtie2,256,222,16137,20401
+300_540_mapped_bowtie2,347,304,25156,30444
+400_540_mapped_bowtie2,428,369,34254,40678
+500_540_mapped_bowtie2,504,431,43469,50926
+600_540_mapped_bowtie2,567,476,52616,61117
+all_540_mapped_bowtie2,725,611,75981,86657
